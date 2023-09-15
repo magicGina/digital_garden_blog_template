@@ -18,10 +18,10 @@
 
 还是应该按照 [digitalgarden官方文档](https://dg-docs.ole.dev/) 中的教程，以 [digitalgarden官方模板项目](https://github.com/oleeskild/digitalgarden) 为基础进行构建。本项目只是一个笔记模板，只应该把它放到本地Obsidian仓库中作为笔记使用。
 
-另外，需要配置的只有Digital Garden的git仓库选项，输入你github（或其他git仓库）的配置就好。项目名称就是你根据 [digitalgarden官方模板项目](https://github.com/oleeskild/digitalgarden) 创建的github仓库。
+如果使用了本项目作为本地笔记，并且使用了上面链接中的插件配置，剩下需要配置的就只有Digital Garden插件的git仓库选项了。输入你git仓库的相关配置就好。其中项目名称就是你根据 [digitalgarden官方模板项目](https://github.com/oleeskild/digitalgarden) 创建的github仓库。
 
 
-就是只需要配置下图这三个框：
+就是只需要填写下图这三个框：
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/a933d03c-a7e6-4f46-a8d5-412a6c724c85)
 
 ## 其他的一些话
