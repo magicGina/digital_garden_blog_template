@@ -9,6 +9,7 @@
 效果见下图：
 
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/ca2b672e-6328-4e10-86e4-5630d05fe4eb)
+![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/2e8dc8ec-b9ea-4926-a267-8cf4722efc24)
 
 ## 操作指南
 这个博客也依赖于Minimal主题，另外，其他的插件如Templater等也在后期写博客过程中能用到，可以在以下链接取得： [下载配置好的插件包](https://miya.teracloud.jp/share/11d12c08ec2d0062)
