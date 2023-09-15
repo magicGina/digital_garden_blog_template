@@ -19,6 +19,7 @@
 
 另外，需要配置的只有Digital Garden的git仓库选项，输入你github（或其他git仓库）的配置就好。项目名称就是你根据 [digitalgarden官方模板项目](https://github.com/oleeskild/digitalgarden) 创建的github仓库。
 
+
 就是只需要配置下图这三个框：
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/a933d03c-a7e6-4f46-a8d5-412a6c724c85)
 
