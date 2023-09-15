@@ -1,5 +1,5 @@
 ---
-title: home
+title: 某某某的博客_首页
 dg-publish: true
 dg-home: true
 cssclasses:
