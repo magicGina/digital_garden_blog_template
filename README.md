@@ -19,6 +19,8 @@
 
 有一些自定义的njk和css，保存在这个项目里了[user css and njk](https://github.com/magicGina/user_digitalgarden_setting)。简易的图床功能是需要某个njk的，请自己找找吧XD。
 
+### 部署项目
+
 **本项目只包含笔记内容，请勿依托本仓库进行站点构建，而应该只把它放到Obsidian中作为笔记模板使用**
 
 还是应该按照 [digitalgarden官方文档](https://dg-docs.ole.dev/) 中的教程，以 [digitalgarden官方模板项目](https://github.com/oleeskild/digitalgarden) 为基础进行构建。本项目只是一个笔记模板，只应该把它放到本地Obsidian仓库中作为笔记使用。
@@ -28,6 +30,8 @@
 
 就是只需要填写下图这三个框：
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/a933d03c-a7e6-4f46-a8d5-412a6c724c85)
+### 添加文章
+请见[添加文章教程](https://perch.parasoltree.top/00_blogs/%E5%BB%BA%E7%AB%99/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0/)
 
 ## 其他的一些话
 这个模板也包含时间轴视图，但是目前Digital Garden还没有支持Timelines插件，这就造成了时间轴在笔记中显示但是在网页上不显示，是正常的！等待开发者大大们更新~
