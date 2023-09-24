@@ -15,7 +15,7 @@
 
 
 ## 操作指南
-这个博客也依赖于Minimal主题，另外，其他的插件如Templater等也在后期写博客过程中能用到，可以在以下链接取得： [下载配置好的插件包](https://miya.teracloud.jp/share/11d12c08ec2d0062) 。直接解压到.obsidian文件夹下然后把插件全部开启就好。
+这个博客也依赖于Minimal主题，另外，其他的插件如Templater等也在后期写博客过程中能用到，可以在以下链接取得： [下载配置好的插件包](https://miya.teracloud.jp/share/11d129ab6aa52054) 。直接解压到.obsidian文件夹下然后把插件全部开启就好。
 
 有一些自定义的njk和css，保存在这个项目里了[user css and njk](https://github.com/magicGina/user_digitalgarden_setting)。简易的图床功能是需要某个njk的，请自己找找吧XD。
 
