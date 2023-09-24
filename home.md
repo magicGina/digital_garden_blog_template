@@ -13,7 +13,27 @@ cssclasses:
   hi,这里是某某某的博客
 ## 博文列表
 ```dataview
-table WITHOUT ID ("![|100](" + cover + ")") as 封面, file.link as 博文, dateformat(create-date,"yyyy-MM-dd") as 日期, substring(file.folder,9)+" "+join(filter(file.tags, (x) => startswith(x, "#by"))," ") as 类型和作者 from #blog  and "00_blogs" sort create-date desc
+table WITHOUT ID 
+choice(typeof(cover)="link",
+	"<img src=\"/img/user/"
+	+regexreplace(cover+"", "[!\[\]]|\|.*", "")
+	+"\""
+	+" alt=\""
+	+regexreplace(cover+"", "[!\[\]]|\|.*", "")
+	+"\""
+	+">"
+,
+	"<pictuer>"
+	+"<img src=\""
+	+cover
+	+"\""
+	+" alt=\""
+	+cover
+	+"\""
+	+">"
+	+"</pictuer>"
+)
+as 封面, file.link as 博文, dateformat(create-date,"yyyy-MM-dd") as 日期, substring(file.folder,9)+" "+join(filter(file.tags, (x) => startswith(x, "#by"))," ") as 类型和作者 from #blog  and "00_blogs" where dg-publish sort create-date desc
 ```
 
 ## 未来计划
