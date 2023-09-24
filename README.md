@@ -11,7 +11,7 @@
 
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/ca2b672e-6328-4e10-86e4-5630d05fe4eb)
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/2e8dc8ec-b9ea-4926-a267-8cf4722efc24)
-![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/97afcfca-20fc-4b62-95a6-f49725e00376)
+<img width="518" alt="1695565389005" src="https://github.com/magicGina/digital_garden_blog_template/assets/88796282/80ff9c03-b46b-4316-9162-700e05529f87">
 
 
 ## 操作指南
