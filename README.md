@@ -5,14 +5,18 @@
 
 - 博文以卡片形式展示
 - 展示了当前未完成的待办
+- 简易的图床
     
 效果见下图：
 
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/ca2b672e-6328-4e10-86e4-5630d05fe4eb)
 ![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/2e8dc8ec-b9ea-4926-a267-8cf4722efc24)
+![image](https://github.com/magicGina/digital_garden_blog_template/assets/88796282/97afcfca-20fc-4b62-95a6-f49725e00376)
+
 
 ## 操作指南
 这个博客也依赖于Minimal主题，另外，其他的插件如Templater等也在后期写博客过程中能用到，可以在以下链接取得： [下载配置好的插件包](https://miya.teracloud.jp/share/11d12c08ec2d0062) 。直接解压到.obsidian文件夹下然后把插件全部开启就好。
+有一些自定义的njk和css，保存在这个项目里了。简易的图床功能是需要某个njk的，请自己找找吧：[user css and njk](https://github.com/magicGina/user_digitalgarden_setting)
 
 **本项目只包含笔记内容，请勿依托本仓库进行站点构建，而应该只把它放到Obsidian中作为笔记模板使用**
 
